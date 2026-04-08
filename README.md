@@ -159,7 +159,7 @@ Desde la UI vas a poder:
 
 - Frontend en desarrollo con Vite (`npm run dev`):
 
-  ![Frontend en desarrollo](img/frontend_en_desarrollo2.png)
+  ![Frontend en desarrollo](img/frontend_en_desarrollo.png)
 
 - Lista de tareas sin elementos (estado inicial):
 
